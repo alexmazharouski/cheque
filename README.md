@@ -55,5 +55,5 @@ productFile;absent cardFile;absent 3;4 6;2 1;15 9;4 card;1111
 Get-запрос осуществляется по адресу (пример):  
 http://localhost:8080/check?itemId=2;9&itemId=1;2&itemId=3;2&itemId=5;1&itemId=4;3&cardId=1234  
 где,    
-* **item=1;2** номер купленного товара и его количество  
+* **itemId=1;2** номер купленного товара и его количество  
 * **cardId=1234** номер скидочной карты (при наличии)  
